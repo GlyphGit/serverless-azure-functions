@@ -862,7 +862,7 @@
         {
           "name": "name",
           "value": "string",
-          "defaultValue": "res",
+          "defaultValue": "$return",
           "required": true,
           "label": "$httpOut_name_label",
           "help": "$httpOut_name_help",
